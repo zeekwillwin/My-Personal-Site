@@ -28,6 +28,7 @@ hr {
     color: rgba(197, 194, 194, 0.671);
     width: 6%;
     margin: 50px auto;
+    position: relative
 }
 
 
@@ -88,6 +89,7 @@ opacity: 0.8
 .middle-container {
     background-color: #FEFBF3;
     padding-top: 40px;
+    position: center
 }
 
 .eder-face {
